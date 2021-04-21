@@ -1,4 +1,4 @@
-vector<string> CodeFight(int n) {
+Fvector<string> CodeFight(int n) {
 
     vector<string> newVector;
     for (int i = 1; i <= n; i++){
