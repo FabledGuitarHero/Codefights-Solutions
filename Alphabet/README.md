@@ -7,6 +7,7 @@ Given two words, determine if the second word can be created by rearraning the l
 ```
 "act", "cat"
 Returns: Yes  
+
 "bat", "fail"
 Returns: No
 ```
